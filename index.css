@@ -5,7 +5,7 @@ ram{
 }
 body{
      min-height: 100vh;
-     width:100vw;
+     width:80%;
      background-color: hwb(103 0% 0% / 0.432);
 
 }
